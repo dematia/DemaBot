@@ -1,7 +1,7 @@
-# BadeBot
+# DemaBot
 ## A French shitposting bot for Discord.
 
-Don't you always wanted a good shitposting bot ? All in French even ? Then BadeBot is for you !
+Don't you always wanted a good shitposting bot ? All in French even ? Then DemaBot is for you !
 
 Wrote entirely with Javascript, NodeJS and the DiscordJS v14.3 library.
 
@@ -10,7 +10,10 @@ Wrote entirely with Javascript, NodeJS and the DiscordJS v14.3 library.
 ### Shitposting
 ```/decrypte``` - The well known french YouTuber named Hugo Decrypte is going to tell you a silly sentence ! All in french though.
 
-```/dox``` - Posts an image of earth subtitled with a fake IP Address (as to not really dox someone.
+```/dox``` - Posts an image of earth subtitled with a fake IP Address (as to not really dox someone).
+
+```/ville``` - Upload an image, and a text to it. It combines them chaoticaly.
+
 ### Administration (needs adiministration role)
 ```/ban``` - Bans a member from your Discord server 
 
@@ -18,7 +21,7 @@ Wrote entirely with Javascript, NodeJS and the DiscordJS v14.3 library.
 
 ## Bot Link :
 Link to invite the bot :
-* [Link](https://discord.com/api/oauth2/authorize?client_id=1047227903248707685&permissions=3213312&scope=bot%20applications.commands)
+* [Link](https://discord.com/oauth2/authorize?client_id=1352966901567066173&permissions=0&integration_type=0&scope=bot)
 
 It needs Administrator requirement as there is still a ban and kick command, and might need those for further developement.
 
@@ -40,4 +43,4 @@ You need to have made a Discord Bot in [Discord Developper Portal](https://disco
 
 Enjoy your new bot.
 
-made by little fragile french hand of mady2ouf
+made by little fragile french hand of dematia
